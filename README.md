@@ -19,7 +19,7 @@ The primary objective of this analysis is to equip business stakeholders and dec
 
 
 ## 🖥️ Preview
-[Adidas Dashboard](https://github.com/Lawal-Jnr-Analyst/Adidas-sales-performance-analysis/blob/main/ADIDAS%20Dashboard.jpg)
+[Bikes Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/Bike-Sales-Analysis/blob/main/bike%20sales.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
