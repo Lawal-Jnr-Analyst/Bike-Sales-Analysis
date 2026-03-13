@@ -19,8 +19,8 @@ The primary objective of this analysis is to equip business stakeholders and dec
 
 
 ## 🖥️ Preview
-[Bikes Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/Bike-Sales-Analysis/blob/main/bike%20sales.jpg)
->click the image above to see a preview of the final dashboard.
+[Bikes Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE5YWM1MDctMjBlMi00MjJmLWI5NjMtMmRjNDQ0YTBkNzlkIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
+>The full interactive dashboard is available via the link above.
 
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
